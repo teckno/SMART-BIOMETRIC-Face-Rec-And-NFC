@@ -39,7 +39,7 @@ functions or features#
 <br/>
 
 
-![alt text](https://github.com/teckno/SMART-BIOMETRIC-Face-Rec-And-NFC/blob/master/PythonUML/singUP.JPG)
+![alt text](https://github.com/teckno/SMART-BIOMETRIC-Face-Rec-And-NFC/blob/master/PythonUML/signUP.JPG)
 
 
 <br/>
