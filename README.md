@@ -55,6 +55,6 @@ functions or features#
 <br/>
 
 
-![alt text](https://github.com/teckno/SMART-BIOMETRIC-Face-Rec-And-NFC/blob/master/PythonUML/lectures_recongintion)
+![alt text](https://github.com/teckno/SMART-BIOMETRIC-Face-Rec-And-NFC/blob/master/PythonUML/lectures_recongintion.JPG)
 
 <br/>
