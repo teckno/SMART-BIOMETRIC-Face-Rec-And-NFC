@@ -6,7 +6,7 @@
 Steps 
 
 
-The is version 1 of PHOTOI if you want to make improvements fill free to do so
+The is version 1.0 of PHOTOI if you want to make improvements fill free to do so
 ####
 
 1.Run the first script login.py 
@@ -19,10 +19,10 @@ The is version 1 of PHOTOI if you want to make improvements fill free to do so
 <br/>
 functions or features#
 <br/>
--->Reistration
--->Live mode
--->Database
--->Extra Features#
+<br/>-->Reistration
+<br/>-->Live mode
+<br/>-->Database
+<br/>-->Extra Features#
 <br/>
 <br/>
 <br/>
