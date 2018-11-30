@@ -21,24 +21,29 @@ functions or features
 <br/>
 <br/>
 <br/>
-<br/>
-If you sport any bugs please fill free to tell me of them 
+
+
 ![alt text](https://github.com/teckno/SMART-BIOMETRIC-Face-Rec-And-NFC/blob/master/PythonUML/login.JPG)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-data is store in the databases
-![alt text](https://github.com/teckno/SMART-BIOMETRIC-Face-Rec-And-NFC/blob/master/PythonUML/login2.JPG)
 
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
+
+
+![alt text](https://github.com/teckno/SMART-BIOMETRIC-Face-Rec-And-NFC/blob/master/PythonUML/login2.JPG)
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ![alt text](https://github.com/teckno/SMART-BIOMETRIC-Face-Rec-And-NFC/blob/master/PythonUML/login3.JPG)
+
 <br/>
 <br/>
 <br/>
